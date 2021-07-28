@@ -13,3 +13,42 @@
   box-sizing: border-box;
   overflow: hidden;
   }
+  
+  .Cabecera {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  heibht: 220px;
+  }
+  
+  .Cabecera img{
+  windth:100px;
+  }
+  
+  .cabecera_h1 {
+  position: absolute;
+  top: 40px;
+  left: 150px;
+  }
+  
+  .cabecera_frase {
+  position: absolute;
+  top: 70px;
+  left: 235px;
+  }
+  
+  .Contenedor{
+  border: solid 1px black;
+  width: 100%;
+  max-width:1000px;
+  margin:auto;
+  box-sizing: border-box;
+  overflow: hidden;
+  }
+  
+  .Cabecera {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  height: 100px;
+  }
