@@ -36,8 +36,8 @@
   top: 70px;
   left: 235px;
   }
-  
-  .Contenedor{
+ 
+ .Contenedor{
   border: solid 1px black;
   width: 100%;
   max-width:1000px;
@@ -52,3 +52,210 @@
   position: relative;
   height: 100px;
   }
+  
+  
+  .nav{
+  margin: 10px 10px 0 0;
+  position: unset;
+  background: none;
+  height: auto;
+  windth: unset;
+  border:none;
+  }
+  
+  .nav_link{
+  background: #008899;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+  }
+  
+  .nav_link_palote {
+  background: #008899;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+  }
+  
+  .nav_link_Button{
+  background: #008899;
+  color: white;
+  padding: 5px;
+  border-rdius: 3px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
