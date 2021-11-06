@@ -5,15 +5,73 @@
   
 }
 
+.Contenedor{
+ border: solid 1px black;
+ width: 100%;
+ max-width: 1000px;
+ margin: auto;
+ box-sizing: border-box;
+ overflow: hidden;
+}
+   
+.Cabecera {
+ display: flex;
+ justify-content: space-between;  position: relative;
+ position: ralative;
+ height: 100px;
+ }
 
-<html>
-   <head>
-           <meta charset="utf-8" />
-           <meta name="description" content="Es una moderna plataforma para el aprendizaje online"/>
-           <meta name="viewport" content="width, initial-scale=1, user-scalable=yes" />
-           <title> Hortoplataform:Comercializacion </title>
-           <link rel="stylesheet"type="text/css" href="Style/EstiloPrincipal.css" />
-           <link rel="preconnect"href="https://fonts.gstatic.com">
-           <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600;800&display=swap" rel="stylesheet">
+.Cabecera img{
+ width:100px;
+}
 
-           <scrip src="https://kit.fontawesome.com/42ec7ee6fe.js" crossorigin="anonymous"></script>
+.cabecera_h1 {
+ position: absolute;
+ top: 40px;
+ left: 150px;
+}
+
+.cabecera_frase {
+ position: absolute;
+ top: 70px;
+ left: 235px;
+}
+
+
+
+.Cabecera_frase {
+ position: absolute;
+ top: 70px;
+ left: 235px;
+}
+
+
+.nav{
+ margin: 10px 10px 0 0;
+ position: unset;
+ background: none;
+ height: auto;
+ width: unset;
+ border:none;
+}
+
+.nav_link{
+ background: #008B99;
+ color: white;
+ padding: 5px;
+ border-radius: 3px;
+}
+
+.nav_link_palote {
+  background: #008B99;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.nav_link_Button{
+  background: #008B99;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+}
