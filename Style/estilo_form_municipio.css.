@@ -72,4 +72,32 @@ body {
        .btn-insertar: active {
         transform: scale(1.05);
         }
+        
+        
+        .tienda p{
+        
+        text-align: justify
+        
+        }
+        
+        .tienda h3{
+         text-align:center;
+         }
+         
+         .btn_municipio {
+          background: #188B37;
+          color: #fff;
+          margin: auto;
+          padding: 10px 40;
+          cursor: pointer;
+          border-radius: 7px;
+          }
+          
+          .btn_municipios: active {
+           transform: scale(1.05);
+           }
+           
+           
+           
+           /**************************/
    
