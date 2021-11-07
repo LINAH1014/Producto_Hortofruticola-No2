@@ -12,8 +12,8 @@
  margin: auto;
  box-sizing: border-box;
  overflow: hidden;
-}
-   
+} 
+
 .Cabecera {
  display: flex;
  justify-content: space-between;  position: relative;
@@ -132,4 +132,49 @@ label{
  cursor: pointer;
 }
 
+/*****************************************/
+
+.tienda {
+ display: grid;
+ grid-template: repeat3, 300px) / repeat(3, 300px);
+ justify-content: center;
+ grid-gap:16px;
+ width: 100%;
+ height: auto;
   
+}
+
+.tienda article {
+ display: flex;
+ justify-content: center;
+ alingn-content: space-between;
+ flex-flow: wrap;
+ border: solid;
+ border-radius: 15px;
+ overflow: Hidden;
+}
+
+
+.tienda img {
+ position:relative;
+ top: 5px;
+ width: 150px;
+ height: 100px;
+ border-radius: 15px;
+}
+
+
+.tienda div{
+ width: 100%;
+ height: 50px;
+ background: #008B99;
+}
+
+.tienda p{
+  
+  text-align: justify;
+  
+}
+
+.tienda-align:center;
+}
